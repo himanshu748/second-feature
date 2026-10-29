@@ -1,0 +1,10 @@
+node_modules/
+dist/
+preview-dist/
+test-results/
+.env
+.env.*
+!.env.example
+*.log
+second-feature-preview.html
+.DS_Store
